@@ -3,8 +3,8 @@ import sqlite3
 
 from datetime import datetime
 
-from Main_OPSH_4 import UiMainWindow
-from History_OPSH_2 import UiHistoryWindows
+from Main_OPSH import UiMainWindow
+from History_OPSH import UiHistoryWindows
 
 from PyQt5 import QtGui, QtWidgets
 from PyQt5.QtWidgets import QMessageBox, QAbstractItemView

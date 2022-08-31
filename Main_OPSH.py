@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import QSize, Qt
-from Tools_OPS_2 import UiToolsWindows
+from Tools_OPSH import UiToolsWindows
 from Hot_OPS import UiHotWindows
-from Abouts import UiAbout
+from Abouts_OPSH import UiAbout
 import os
 
 
